@@ -12,8 +12,8 @@ function checkIfUsesCSS(user) {
     return false
 }
 
-for (let i = 0; i < users.length; i++) {
-    if(checkIfUsesCSS(users[i])) {
+for (let user of users) {
+    if(checkIfUsesCSS(user)) {
         console.log(`O usuário ${users[i].name} works with CSS.`)
     }
 }

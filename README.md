@@ -6,10 +6,10 @@
     Challenge 1: Introduction to Web Development
 </h1>
 
-<h2 align="center">Applications developed during Rocketseat's LaunchBase bootcamp</h2>
+<h2 align="center">Applications developed during Rocketseat's Bootcamp</h2>
 
 ###  What is it about?
-#### It's about challenges proposed by Rocketseat to criate programs to:
+#### It's about challenges proposed by Rocketseat to create programs to:
 - calculate a person's BMI;
 - calculate a person's retirement;
 - store information about a company;

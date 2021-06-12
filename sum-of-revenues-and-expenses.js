@@ -18,12 +18,12 @@ const users = [
   ];
 
   function calculateBalance(revenue, expenses) {
-    const addrevenue = addnumbers(revenue)
-    const addexpenses = addnumbers(expenses)
-    return addrevenue - addexpenses
+    const addRevenue = addNumbers(revenue)
+    const addExpenses = addNumbers(expenses)
+    return addRevenue - addExpenses
     }
 
-  function addnumbers(numbers) {
+  function addNumbers(numbers) {
       let add = 0
       // for (let i = 0; i < numbers.length; i++) {   >>>> an option to solve it
       for (let number of numbers) { 
